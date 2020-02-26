@@ -1,0 +1,62 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, rgb(17, 15, 16) 0%,black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.smartphone{
+    margin-bottom: 5%;
+}
+.laptop{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.card{
+    border: none;
+    box-shadow:5px 5px 10px lightgray ;
+
+}
+.category{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#box{
+box-shadow: 5px 5px 15px lightgray;
+width: 180px;
+}
+#pale{
+    width: 650px;
+}
+.cat{
+    margin-bottom: 8%;
+}
+.contact{
+    text-align: center;
+    padding-top: 8%;
+   
+}
+.submit-btn{
+    background-image: linear-gradient(to bottom, orange 0% , rgb(231, 78, 17) 100% );
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#cu{
+   
+    font-weight: bold;
+}
+.touch{
+    color:rgb(218, 23, 120)
+}
+#email{
+    color: gray;
+
+}
